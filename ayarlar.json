@@ -1,0 +1,30 @@
+  {
+  "prefix":          "PREFİX",
+  "token":           "TOKEN",
+  "sahip":           "SAHİP İD",
+  
+  "yetkili":         "YETKİLİ ROL İD",
+  "erkekrol":        "KIZ ROL İD",
+  "kizrol":          "ERKEK ROL İD",
+  "erkekrolxy":      "ERKEK XY ROL İD",
+  "kizrolxx":        "KIZ XX ROL İD",
+  "erkekrolemoji":   "ERKEK EMOJİ ROL İD",
+  "kizrolemoji":     "KIZ EMOJİ ROL İD",
+  "kayıtsız":        "KAYITSIZ ROL İD",
+  "emoji":           "KAYITSIZ EMOJİ ROL İD",
+  
+  "genelsohbet":     "GENEL CHAT İD",
+  "kayıtsohbet":     "KAYIT KANAL İD",
+  "odayagir":        "BOT SES İD",
+    
+    
+  "sunucu":          "SUNUCU İD",
+  "tagkanal":        "TAG KANAL İD",
+  "tagrol":          "TAG ROL İD",
+  "cezalı":          "CEZALI ROL İD",
+
+  "tag":             "TAG" , 
+  "yasaklıtag":      "VARSA YASAKLI TAGINIZ YOKSA BOŞ BIRAKIN"  
+
+
+  }
